@@ -1,6 +1,7 @@
 ---
 date: '2017-04-11T15:13:32.000Z'
 description: Monsieur the Cardinal
+featured_image: images/Chapter 3 image-1746682725309-6ql9el.jpg
 tags: []
 title: 'Chapter III: Monsieur the Cardinal'
 ---
