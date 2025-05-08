@@ -1,9 +1,11 @@
 ---
-date: 2017-04-12T11:14:48-04:00
-description: "Master Jacques Coppenole"
-featured_image: ""
-tags: ["scene"]
-title: "Chapter IV: Master Jacques Coppenole"
+date: '2017-04-12T15:14:48.000Z'
+description: Master Jacques Coppenole
+featured_image: ''
+sha: f49d937cd148545f42496e22593ee5736ddf6ffb
+tags:
+  - scene
+title: 'Chapter IV: Master Jacques Coppenole'
 ---
 While the pensioner of Ghent and his eminence were exchanging very low
 bows and a few words in voices still lower, a man of lofty stature, with a
