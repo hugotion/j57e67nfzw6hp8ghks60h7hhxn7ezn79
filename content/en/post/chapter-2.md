@@ -1,8 +1,6 @@
 ---
 date: '2017-04-10T15:00:59.000Z'
 description: Pierre Gringoire
-featured_image: images/Test Image-1746680118611-sw9tdm.jpg
-sha: b3c7d4f9f36a4f1861c96be9e39e7e8325e9d6ca
 tags: []
 title: 'Chapter II: Pierre Gringoire'
 ---
