@@ -2,7 +2,7 @@
 date: '2017-04-09T14:58:08.000Z'
 description: The Grand Hall
 featured_image: images/Test Image-1746547579635-kstd3j.jpg
-sha: ff2a14fe0185274afcbe2b82048cecee80689257
+sha: 4de7ef2ac431c060e2c48452472cdc6d3dcbeb40
 tags:
   - scene
 title: 'Chapter I: The Grand Hall'
